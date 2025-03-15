@@ -18,7 +18,7 @@ class Bike extends Vehicle{
     }
 }
 
-class Main{
+class Override{
     public static void main(String arg[]){
         
         Car c = new Car();

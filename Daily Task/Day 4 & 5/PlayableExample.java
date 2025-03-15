@@ -4,14 +4,14 @@ interface Playable {
 
 class Guitar implements Playable {
     @Override
-    public void play() {  // Corrected method signature (public)
+    public void play() {  
         System.out.println("Guitar class");
     }
 }
 
 class Piano implements Playable {
     @Override
-    public void play() {  // Corrected method signature (public)
+    public void play() {  
         System.out.println("Piano class");
     }
 }
